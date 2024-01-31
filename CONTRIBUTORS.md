@@ -4,6 +4,12 @@ About: Mentor at SMLRA-KJSCE<br/>
 Programming languages: Python, Java, C/C++, HTML, CSS, Js <br/>
 Email: mayankchowdhary607@gmail.com
 
+Name: [Ritik Manghani](https://github.com/ritikmanghani99)<br/>
+Place: Nagpur, India<br/>
+About: Final year Undergrad at PICT<br/>
+Programming languages: C, Javascript, Python, Java, HTML, CSS <br/>
+Email: ritikmanghani99@gmail.com 
+
 Name: [Tushar Bapecha](https://github.com/tushargithub44)<br/>
 Place: India<br/>
 About: Co-Founder of GyaaniBuddy <br/>
